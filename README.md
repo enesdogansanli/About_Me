@@ -9,3 +9,7 @@ I am a computer engineering master student. I am extremely interested in Machine
 - Deep Learning
 
 - Data Science
+
+- SQL
+
+- Git/GitHub
