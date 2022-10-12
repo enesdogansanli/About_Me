@@ -1,6 +1,6 @@
 # About_Me
 
-I am a computer engineering master student. I am extremely interested in Machine Learning and Deep Learning. You can find some information about me in this repository.
+I am a computer engineering master student at Yildiz Technical University. I am currently working on machine learning, big data, computer vision and collaborative learning. I am actively doing research and developing projects. You can view my projects on the GITHUB link.
 
 - Python
 
